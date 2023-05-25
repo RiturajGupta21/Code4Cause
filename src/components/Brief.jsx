@@ -82,4 +82,4 @@ const Brief = () => {
   );
 };
 
-export default SectionWrapper(Brief, "work");
+export default SectionWrapper(Brief, "brief");

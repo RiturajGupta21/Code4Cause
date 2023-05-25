@@ -8,14 +8,14 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "#work",
-    title: "Work",
+    id: "#brief",
+    title: "Themes",
   },
   {
     id: "https://docs.google.com/forms/d/e/1FAIpQLScuXvahTUw-DDCptjALfoy6nPbwlZU6tF9XdX6JIfItImgVnQ/viewform",
     title: "Register",
   },
- 
+
 ];
 
 const themes = [
@@ -45,7 +45,7 @@ const timeline = [
     date: "Day 3",
     icon: ai,
     iconBg: "#383E56",
-    
+
     points: [
       "Day 4",
       "Day 5",
@@ -85,10 +85,10 @@ const Briefs = [
     iconBg: "#E6DEDD",
     date: "Briefs 1",
     points: [
-    "Briefs 1",
-    "Briefs 1",
-    "Briefs 1",
-    "Briefs 1",
+      "Briefs 1",
+      "Briefs 1",
+      "Briefs 1",
+      "Briefs 1",
     ],
   },
 ];

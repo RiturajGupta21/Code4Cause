@@ -13,7 +13,7 @@ const App = () => {
         <About />
         <Timeline />
         <Brief />
-        <Footer/>
+        <Footer />
       </div>
     </BrowserRouter>
   );
