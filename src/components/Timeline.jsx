@@ -61,7 +61,7 @@ const Timeline = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-          Whats the timeline??
+          Event Process Flow
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
           Timeline.

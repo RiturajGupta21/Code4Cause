@@ -1,6 +1,4 @@
-import {
-  ai, pa, es, el, clock
-} from "../assets";
+import {ai, pa, es, el, clock} from "../assets";
 
 export const navLinks = [
   {
@@ -15,7 +13,6 @@ export const navLinks = [
     id: "https://docs.google.com/forms/d/e/1FAIpQLScuXvahTUw-DDCptjALfoy6nPbwlZU6tF9XdX6JIfItImgVnQ/viewform",
     title: "Register",
   },
-
 ];
 
 const themes = [
@@ -37,18 +34,16 @@ const themes = [
   },
 ];
 
-
 const timeline = [
   {
     title: "",
     company_name: "",
-    date: "Day 3",
+    date: "16th May 2023",
     icon: clock,
     iconBg: "#383E56",
-
     points: [
-      "Day 4",
-      "Day 5",
+      "Registration Opens",
+      // "Description",
     ],
   },
   {
@@ -56,22 +51,21 @@ const timeline = [
     company_name: "",
     icon: clock,
     iconBg: "#E6DEDD",
-    date: "Day 1",
+    date: "26th May 2023",
     points: [
-      "Day 1",
-      "Day 1"
+      "Themes Released",
+      // "Description"
     ],
   },
   {
     title: "",
     company_name: "",
-    date: "Day 3",
+    date: "TBA",
     icon: clock,
     iconBg: "#383E56",
-
     points: [
-      "Day 4",
-      "Day 5",
+      "Registration Close",
+      // "Description",
     ],
   },
   {
@@ -79,10 +73,32 @@ const timeline = [
     company_name: "",
     icon: clock,
     iconBg: "#E6DEDD",
-    date: "Day 1",
+    date: "TBA",
     points: [
-      "Day 1",
-      "Day 1"
+      "Teams Distribution",
+      // "Description"
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    date: "TBA",
+    icon: clock,
+    iconBg: "#383E56",
+    points: [
+      "Problem Statement Submission",
+      // "Description",
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    icon: clock,
+    iconBg: "#E6DEDD",
+    date: "TBA",
+    points: [
+      "Presentation cum Demonstration",
+      // "Description"
     ],
   },
 ];
