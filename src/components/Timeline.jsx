@@ -42,7 +42,7 @@ const TimelineCard = ({ Timeline }) => {
         </p>
       </div>
 
-      <ul className='mt-5 list-disc ml-5 space-y-2'>
+      <ul className='list-disc ml-5 space-y-2'> {/*mt-5*/}
         {Timeline.points.map((point, index) => (
           <li
             key={`Timeline-point-${index}`}

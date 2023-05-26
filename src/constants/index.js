@@ -1,5 +1,5 @@
 import {
-  ai,
+  ai, pa, es, el, clock
 } from "../assets";
 
 export const navLinks = [
@@ -24,26 +24,26 @@ const themes = [
     icon: ai,
   },
   {
-    title: "Accessibility and Inclusion",
-    icon: ai,
+    title: "Poverty Alleviation",
+    icon: pa,
   },
   {
-    title: "Accessibility and Inclusion",
-    icon: ai,
+    title: "Environment and Sustainability",
+    icon: es,
   },
   {
-    title: "Accessibility and Inclusion",
-    icon: ai,
+    title: "Education and Learning ",
+    icon: el,
   },
 ];
 
 
 const timeline = [
   {
-    title: "Day 1",
-    company_name: "Day 2",
+    title: "",
+    company_name: "",
     date: "Day 3",
-    icon: ai,
+    icon: clock,
     iconBg: "#383E56",
 
     points: [
@@ -52,9 +52,32 @@ const timeline = [
     ],
   },
   {
-    title: "Day 1",
-    company_name: "Day 1",
-    icon: ai,
+    title: "",
+    company_name: "",
+    icon: clock,
+    iconBg: "#E6DEDD",
+    date: "Day 1",
+    points: [
+      "Day 1",
+      "Day 1"
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    date: "Day 3",
+    icon: clock,
+    iconBg: "#383E56",
+
+    points: [
+      "Day 4",
+      "Day 5",
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    icon: clock,
     iconBg: "#E6DEDD",
     date: "Day 1",
     points: [
@@ -65,30 +88,43 @@ const timeline = [
 ];
 const Briefs = [
   {
-    title: "Briefs 1",
-    company_name: "Briefs 1",
+    title: "",
+    company_name: "",
     icon: ai,
     iconBg: "#383E56",
-    date: "Briefs 1",
+    date: "Accessibility and Inclusion",
     points: [
-      "Briefs 1",
-      "Briefs 1",
-      "Briefs 1",
-      "Briefs 1",
-      "Briefs 1",
+      "Create solutions that enhance accessibility for individuals with disabilities, making technology more inclusive and empowering for all.",
     ],
   },
   {
-    title: "Briefs 1",
-    company_name: "Briefs 1",
-    icon: ai,
+    title: "",
+    company_name: "",
+    icon: pa,
     iconBg: "#E6DEDD",
-    date: "Briefs 1",
+    date: "Poverty Alleviation",
     points: [
-      "Briefs 1",
-      "Briefs 1",
-      "Briefs 1",
-      "Briefs 1",
+      "Develop solutions that help alleviate poverty, provide resources or opportunities for underserved communities, or support economic empowerment.",
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    icon: es,
+    iconBg: "#383E56",
+    date: "Environment and Sustainability",
+    points: [
+      "Focus on projects that promote environmental conservation, sustainable practices, waste management, or renewable energy solutions.",
+    ],
+  },
+  {
+    title: "",
+    company_name: "",
+    icon: el,
+    iconBg: "#E6DEDD",
+    date: "Education and Learning",
+    points: [
+      "Develop innovative solutions to improve access to education, enhance learning experiences, or address specific challenges in the education sector.",
     ],
   },
 ];

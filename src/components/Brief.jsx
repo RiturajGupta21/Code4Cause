@@ -42,7 +42,7 @@ const BriefCard = ({ Brief }) => {
         </p>
       </div>
 
-      <ul className='mt-5 list-disc ml-5 space-y-2'>
+       <ul className='list-disc ml-5 space-y-2'> {/*mt-5*/}
         {Brief.points.map((point, index) => (
           <li
             key={`Brief-point-${index}`}
@@ -61,7 +61,7 @@ const Brief = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
+          What should we do??
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
           Themes Description.
