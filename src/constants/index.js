@@ -110,8 +110,8 @@ const Briefs = [
     iconBg: "#383E56",
     date: "Accessibility and Inclusion",
     points: [
-      "Create solutions that enhance accessibility for individuals with disabilities, making technology more inclusive and empowering for all.",
-    ],
+      "Create solutions that enhance accessibility for individuals with disabilities, making technology more inclusive and empowering for all.", "The solutions should encompass web accessibility, inclusive user interfaces, assistive technologies, mobile app design, captioning and transcription, inclusive gaming, virtual and augmented reality accessibility, inclusive education technologies, accessible communication platforms, and AI-powered accessibility solutions.","Implement these advancements,to enhance digital experiences, ensure equal access to technology, and foster inclusivity in society.",
+    ]
   },
   {
     title: "",
@@ -120,7 +120,7 @@ const Briefs = [
     iconBg: "#E6DEDD",
     date: "Poverty Alleviation",
     points: [
-      "Develop solutions that help alleviate poverty, provide resources or opportunities for underserved communities, or support economic empowerment.",
+      "Develop solutions that help alleviate poverty, provide resources or opportunities for underserved communities, or support economic empowerment.","Leveraging technology for poverty alleviation involves promoting financial inclusion through digital banking, empowering individuals with digital skills, enabling access to marketplaces and employment opportunities.","Improving healthcare through telemedicine, implementing agricultural technologies, enhancing disaster response, providing access to basic services, utilizing data-driven decision making, and fostering collaboration and knowledge sharing for collective action.",
     ],
   },
   {
@@ -130,7 +130,7 @@ const Briefs = [
     iconBg: "#383E56",
     date: "Environment and Sustainability",
     points: [
-      "Focus on projects that promote environmental conservation, sustainable practices, waste management, or renewable energy solutions.",
+      "Focus on projects that promote environmental conservation, sustainable practices, waste management, or renewable energy solutions.","Rapid advancements in technology have led to environmental challenges, including high energy consumption, e-waste accumulation, and unsustainable practices. To address these issues, innovative solutions are needed.","Developing efficient energy systems, implementing proper e-waste management, integrating renewable energy, and promoting sustainable agriculture, water management, waste recycling, transportation, climate monitoring, manufacturing, and data analytics can foster sustainability and mitigate environmental impacts, leading to a greener future.",
     ],
   },
   {
@@ -140,7 +140,7 @@ const Briefs = [
     iconBg: "#E6DEDD",
     date: "Education and Learning",
     points: [
-      "Develop innovative solutions to improve access to education, enhance learning experiences, or address specific challenges in the education sector.",
+      "Develop innovative solutions to improve access to education, enhance learning experiences, or address specific challenges in the education sector.","Technology can revolutionize education by developing personalized learning platforms, gamifying education through interactive games and simulations, utilizing virtual reality for immersive learning experiences, and implementing AI tutoring systems.","Adaptive assessment tools, collaborative learning platforms, data analytics, mobile learning apps, augmented reality, and AI-based content creation tools can also enhance education and make it more accessible and engaging for students."    
     ],
   },
 ];
