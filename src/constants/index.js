@@ -42,8 +42,7 @@ const timeline = [
     icon: clock,
     iconBg: "#383E56",
     points: [
-      // "",
-      // "Description",
+      "There is no need for multiple responses.","Fill the form according to your respective domain you know."
     ],
   },
   {
@@ -53,8 +52,7 @@ const timeline = [
     iconBg: "#E6DEDD",
     date: "26th May 2023",
     points: [
-      // "",
-      // "Description"
+      "There are a total of 4 themes.","Once the teams are distributed you need to select the theme and prepare a problem statment."
     ],
   },
   {
@@ -64,8 +62,7 @@ const timeline = [
     icon: clock,
     iconBg: "#383E56",
     points: [
-      // "",
-      // "Description",
+      "The registrations will be closed sharp at 20:00 hrs on the given date","You can edit your response before the given date"
     ],
   },
   {
@@ -75,8 +72,7 @@ const timeline = [
     iconBg: "#E6DEDD",
     date: "23rd June 2023",
     points: [
-      // "",
-      // "Description"
+      "Teams will be decided by the Codex team","Every team will be given a mentor from the codex team.","Size of the team will be determined based on the domain."
     ],
   },
   {
@@ -86,8 +82,7 @@ const timeline = [
     icon: clock,
     iconBg: "#383E56",
     points: [
-      // "",
-      // "Description",
+      "After the team distribution,the memebers has to communicate amongs themeselves and come up with a problem statement on the given themes.","Teams should submit a DOC file on or before the given given date via form."
     ],
   },
   {
@@ -97,8 +92,7 @@ const timeline = [
     iconBg: "#E6DEDD",
     date: "Mid August 2023",
     points: [
-      // "",
-      // "Description"
+      "Final Date will be announced in the month itself.","Best projects will be given a chance to join our community","People will be awarded with prizes and certificates"
     ],
   },
 ];
