@@ -37,110 +37,117 @@ const themes = [
 const timeline = [
   {
     title: "",
-    company_name: "",
+    company_name: "Registration Opens",
     date: "16th May 2023",
     icon: clock,
     iconBg: "#383E56",
     points: [
-      "Registration Opens",
+      // "",
       // "Description",
     ],
   },
   {
     title: "",
-    company_name: "",
+    company_name: "Themes Released",
     icon: clock,
     iconBg: "#E6DEDD",
     date: "26th May 2023",
     points: [
-      "Themes Released",
+      // "",
       // "Description"
     ],
   },
   {
     title: "",
-    company_name: "",
-    date: "TBA",
+    company_name: "Registration Close",
+    date: "16th June 2023",
     icon: clock,
     iconBg: "#383E56",
     points: [
-      "Registration Close",
+      // "",
       // "Description",
     ],
   },
   {
     title: "",
-    company_name: "",
+    company_name: "Teams Distribution",
     icon: clock,
     iconBg: "#E6DEDD",
-    date: "TBA",
+    date: "23rd June 2023",
     points: [
-      "Teams Distribution",
+      // "",
       // "Description"
     ],
   },
   {
     title: "",
-    company_name: "",
-    date: "TBA",
+    company_name: "Problem Statement Submission",
+    date: "30th June 2023",
     icon: clock,
     iconBg: "#383E56",
     points: [
-      "Problem Statement Submission",
+      // "",
       // "Description",
     ],
   },
   {
     title: "",
-    company_name: "",
+    company_name: "Presentation cum Demonstration",
     icon: clock,
     iconBg: "#E6DEDD",
-    date: "TBA",
+    date: "Mid August 2023",
     points: [
-      "Presentation cum Demonstration",
+      // "",
       // "Description"
     ],
   },
 ];
 const Briefs = [
   {
-    title: "",
+    title: "Accessibility and Inclusion",
     company_name: "",
     icon: ai,
     iconBg: "#383E56",
-    date: "Accessibility and Inclusion",
+    date: "",
     points: [
-      "Create solutions that enhance accessibility for individuals with disabilities, making technology more inclusive and empowering for all.", "The solutions should encompass web accessibility, inclusive user interfaces, assistive technologies, mobile app design, captioning and transcription, inclusive gaming, virtual and augmented reality accessibility, inclusive education technologies, accessible communication platforms, and AI-powered accessibility solutions.","Implement these advancements,to enhance digital experiences, ensure equal access to technology, and foster inclusivity in society.",
+      "Create solutions that enhance accessibility for individuals with disabilities, making technology more inclusive and empowering for all.", 
+      "The solutions should encompass web accessibility, inclusive user interfaces, assistive technologies, mobile app design, captioning and transcription, inclusive gaming, virtual and augmented reality accessibility, inclusive education technologies, accessible communication platforms, and AI-powered accessibility solutions.",
+      "Implement these advancements,to enhance digital experiences, ensure equal access to technology, and foster inclusivity in society.",
     ]
   },
   {
-    title: "",
+    title: "Poverty Alleviation",
     company_name: "",
     icon: pa,
     iconBg: "#E6DEDD",
-    date: "Poverty Alleviation",
+    date: "",
     points: [
-      "Develop solutions that help alleviate poverty, provide resources or opportunities for underserved communities, or support economic empowerment.","Leveraging technology for poverty alleviation involves promoting financial inclusion through digital banking, empowering individuals with digital skills, enabling access to marketplaces and employment opportunities.","Improving healthcare through telemedicine, implementing agricultural technologies, enhancing disaster response, providing access to basic services, utilizing data-driven decision making, and fostering collaboration and knowledge sharing for collective action.",
+      "Develop solutions that help alleviate poverty, provide resources or opportunities for underserved communities, or support economic empowerment.",
+      "Leveraging technology for poverty alleviation involves promoting financial inclusion through digital banking, empowering individuals with digital skills, enabling access to marketplaces and employment opportunities.",
+      "Improving healthcare through telemedicine, implementing agricultural technologies, enhancing disaster response, providing access to basic services, utilizing data-driven decision making, and fostering collaboration and knowledge sharing for collective action.",
     ],
   },
   {
-    title: "",
+    title: "Environment and Sustainability",
     company_name: "",
     icon: es,
     iconBg: "#383E56",
-    date: "Environment and Sustainability",
+    date: "",
     points: [
-      "Focus on projects that promote environmental conservation, sustainable practices, waste management, or renewable energy solutions.","Rapid advancements in technology have led to environmental challenges, including high energy consumption, e-waste accumulation, and unsustainable practices. To address these issues, innovative solutions are needed.","Developing efficient energy systems, implementing proper e-waste management, integrating renewable energy, and promoting sustainable agriculture, water management, waste recycling, transportation, climate monitoring, manufacturing, and data analytics can foster sustainability and mitigate environmental impacts, leading to a greener future.",
+      "Focus on projects that promote environmental conservation, sustainable practices, waste management, or renewable energy solutions.",
+      "Rapid advancements in technology have led to environmental challenges, including high energy consumption, e-waste accumulation, and unsustainable practices. To address these issues, innovative solutions are needed.",
+      "Developing efficient energy systems, implementing proper e-waste management, integrating renewable energy, and promoting sustainable agriculture, water management, waste recycling, transportation, climate monitoring, manufacturing, and data analytics can foster sustainability and mitigate environmental impacts, leading to a greener future.",
     ],
   },
   {
-    title: "",
+    title: "Education and Learning",
     company_name: "",
     icon: el,
     iconBg: "#E6DEDD",
-    date: "Education and Learning",
+    date: "",
     points: [
-      "Develop innovative solutions to improve access to education, enhance learning experiences, or address specific challenges in the education sector.","Technology can revolutionize education by developing personalized learning platforms, gamifying education through interactive games and simulations, utilizing virtual reality for immersive learning experiences, and implementing AI tutoring systems.","Adaptive assessment tools, collaborative learning platforms, data analytics, mobile learning apps, augmented reality, and AI-based content creation tools can also enhance education and make it more accessible and engaging for students."    
+      "Develop innovative solutions to improve access to education, enhance learning experiences, or address specific challenges in the education sector.","Technology can revolutionize education by developing personalized learning platforms, gamifying education through interactive games and simulations, utilizing virtual reality for immersive learning experiences, and implementing AI tutoring systems."
+      ,"Adaptive assessment tools, collaborative learning platforms, data analytics, mobile learning apps, augmented reality, and AI-based content creation tools can also enhance education and make it more accessible and engaging for students."    
     ],
   },
 ];
