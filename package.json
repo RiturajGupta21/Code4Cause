@@ -29,7 +29,7 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2",
-    "vite": "^4.3.8"
+    "vite": "^4.3.9"
   },
   "description": "The existence of React Native makes React one of the most valuable skills to have.",
   "main": "vite.config.js",
