@@ -70,7 +70,7 @@ const timeline = [
     company_name: "Teams Distribution",
     icon: clock,
     iconBg: "#E6DEDD",
-    date: "23rd June 2023",
+    date: "24th June 2023",
     points: [
       "Teams will be decided by the Codex team","Every team will be given a mentor from the codex team.","Size of the team will be determined based on the domain."
     ],
@@ -78,7 +78,7 @@ const timeline = [
   {
     title: "",
     company_name: "Problem Statement Submission",
-    date: "30th June 2023",
+    date: "1st July 2023",
     icon: clock,
     iconBg: "#383E56",
     points: [
