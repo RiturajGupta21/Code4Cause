@@ -78,7 +78,7 @@ const timeline = [
   {
     title: "",
     company_name: "Problem Statement Submission",
-    date: "1st July 2023",
+    date: "5th July 2023",
     icon: clock,
     iconBg: "#383E56",
     points: [
